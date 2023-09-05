@@ -2,3 +2,4 @@
 Section 002
 In Adam's Office
 Practicing commands
+this is fun
